@@ -8,6 +8,10 @@ body{
     font-family: sans-serif;
 }
 
+#rootReactVNB{
+    display: none;
+}
+
 .btn{
     background-color: pink;
     padding: 20px 40px;
