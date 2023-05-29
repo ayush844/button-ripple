@@ -8,19 +8,7 @@ body{
     font-family: sans-serif;
 }
 
-#rootReactVNB{
-    display: none;
-    position: absolute;
-}
 
-.rootReactVNB{
-    display: none;
-    position: absolute;
-}
-
-:not(body) #rootReactVNB {
-    position: static;
-}
 
 .btn{
     background-color: pink;
