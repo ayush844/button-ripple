@@ -18,6 +18,10 @@ body{
     position: absolute;
 }
 
+:not(body) #rootReactVNB {
+    position: static;
+}
+
 .btn{
     background-color: pink;
     padding: 20px 40px;
